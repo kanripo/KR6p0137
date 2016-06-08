@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:03:41.311129
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:56
 #+TITLE: 大乘淨土讚
 #+PROPERTY: CBETA_ID T85n2828
 #+PROPERTY: ID KR6p0137
@@ -97,6 +97,5 @@ No.2828¶
 　道𨕱梁賢
 　犯手想傳¶
 　道𨕱不凉賢
-　子母莫交傳
+　子母莫交傳」
 #+END_VERSE
-」
